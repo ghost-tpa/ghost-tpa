@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Python developer 
 --------------------  
 I'm python developer, i love cryptography and hate math :(  
-* 🌍  I'm based in HaNoi - VietNam *
-* ✉️  You can contact me at [tuananhphan006@gmail.com](mailto:tuananhphan006@gmail.com) *
-* 🧠  I'm learning CyberSecurity *
+* 🌍  I'm based in HaNoi - VietNam
+* ✉️  You can contact me at [tuananhphan006@gmail.com](mailto:tuananhphan006@gmail.com)
+* 🧠  I'm learning CyberSecurity
 * 🤝  I'm open to collaborating on Project using Cryptography
 
 ### Skills  
